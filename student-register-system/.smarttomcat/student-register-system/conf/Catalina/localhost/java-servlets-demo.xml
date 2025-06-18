@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Context docBase="/Users/godfrey/IdeaProjects/Module-3-Courses/Module-3-Java-Professional./Servlets/java-servlets-demo/src/main/webapp">
+  <Resources cacheMaxSize="10240">
+    <PreResources base="/Users/godfrey/IdeaProjects/Module-3-Courses/Module-3-Java-Professional./Servlets/java-servlets-demo/target/classes" className="org.apache.catalina.webresources.DirResourceSet" webAppMount="/WEB-INF/classes"/>
+  </Resources>
+</Context>
